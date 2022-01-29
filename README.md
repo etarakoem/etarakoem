@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @etarakoem
+- 👋 Hi, I’m Samuel
 - 👀 I’m interested in Cybersecurity, specifically Malware Analysis
-- 🌱 I’m currently learning Computer Science in University
-- 💞️ I’m looking to collaborate on ... - TBD
-- 📫 Reach me via Linkedin: https://www.linkedin.com/in/samuel-hua/
+- 🌱 I’m currently learning Computer Science in Ryerson University
+- My TryHackMe certificates:
+  
+  [Complete Beginner](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SMFCIQLOJQ.png)
+  
+  [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UNE7N2TP63.png)
+  
+  [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C8Z7C7GYWH.png)
+  
+  [Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-H4QM90YOQE.png)
+  
+  [Comtia Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SMMK3EBTZD.png)
+  
+  
+- 📫 Reach me via [Linkedin](https://www.linkedin.com/in/samuel-hua/)
 
 SPECIAL FOR RYERSON COMPUTER SCIENCE MAJOR: 
 You guys can find some sample resource to assist your learning here.
