@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel
-- 👀 I’m interested in Cybersecurity, specifically Malware Analysis
+- 👀 I’m a hacker now
 - 🌱 I’m currently learning Computer Science in Ryerson University
 - My TryHackMe certificates:
   
